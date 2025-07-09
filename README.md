@@ -10,7 +10,9 @@ projects: nothing right now
 
 current status: doing nothing
 
-# **EMERGENCY FROG SITUATION**
+things i like:
+
+i dunno man
 <!---
 osintdoesstuff/osintdoesstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
